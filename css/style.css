@@ -8,7 +8,7 @@
 }
 
 #menu{
-    background-color:#FFFFFF !important;
+    background-color:#ff0000 !important;
 }
 
 .alto-img{
@@ -41,6 +41,11 @@ body{
 }
 
 #Novedades .titulo{
+    width: 100%;
+    text-align: center;
+    color: #0c0c0c;
+}
+#comidas .titulo{
     width: 100%;
     text-align: center;
     color: #0c0c0c;
