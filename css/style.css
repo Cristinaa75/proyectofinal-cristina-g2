@@ -45,6 +45,11 @@ body{
     text-align: center;
     color: #0c0c0c;
 }
+#bebidas .titulo{
+    width: 100%;
+    text-align: center;
+    color: #0c0c0c;
+}
 #comidas .titulo{
     width: 100%;
     text-align: center;
