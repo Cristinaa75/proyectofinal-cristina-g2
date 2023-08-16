@@ -27,7 +27,7 @@
 }
 
 .nav-link.active{
-    color: #eb1c42 !important;
+    color: hsl(0, 0%, 100%) !important;
 }
 
 body{
@@ -41,6 +41,12 @@ body{
 }
 
 #Novedades .titulo{
+    width: 100%;
+    text-align: center;
+    color: #0c0c0c;
+}
+
+#picadas .titulo {
     width: 100%;
     text-align: center;
     color: #0c0c0c;
@@ -252,6 +258,7 @@ footer {
     text-align: center;
     margin-top: 115px;
     margin-bottom: 50px;
+    padding: 5px;
 }
 
 .col-12 button{
