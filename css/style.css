@@ -27,7 +27,7 @@
 }
 
 .nav-link.active{
-    color: hsl(0, 0%, 100%) !important;
+    color: hsl(0, 0%, 0%) !important;
 }
 
 body{
