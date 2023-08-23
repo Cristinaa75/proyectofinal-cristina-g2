@@ -43,26 +43,29 @@ body{
 
 }
 
-#Novedades .titulo{
+#Novedades .titulo2{
+    width: 100%;
+    text-align: center;
+    color: #0c0c0c;
+}
+#novedades.titulo2{
+    text-align: center;
+}
+
+#Bebidas .titulo{
     width: 100%;
     text-align: center;
     color: #0c0c0c;
 }
 
-#picadas .titulo {
+#Comidas .titulo{
     width: 100%;
     text-align: center;
     color: #0c0c0c;
 }
-#bebidas .titulo{
-    width: 100%;
-    text-align: center;
-    color: #0c0c0c;
-}
-#comidas .titulo{
-    width: 100%;
-    text-align: center;
-    color: #0c0c0c;
+.rapi{
+    width: 260px;
+    height: 280px;
 }
 /* Videos */
 #Videos{
